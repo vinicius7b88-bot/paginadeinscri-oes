@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+background-color: 
+#000000
+
+}
+
+
+
+
+
+
+h1{
+color:#f8be00 ;
+ background-color:#f07c19;
+ 
+}
+
+
+form{
+    color: #ffc219;
+    font-family: tahoma, sans-serif;;
+    margin: 25px;
+    background-color:#000000
+   
+}
+
+
+li{
+    color: #ffc219;
+    font-family: tahoma, sans-serif;
+    background-color:#000000;
+}
+
+h2{
+    color: #f07c19;
+    margin: 0px;
+    background-color:#000000
+    
+}
+    
+h3{
+    color: #f07c19;
+}
+
+
+button{
+    color: #ffc219;
+    background-color: #f07c19;
+    
+}
